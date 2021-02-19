@@ -10,7 +10,7 @@ The dcdc_batt_comm component is a Device Driver for actual control of hardware t
 Here is how to install apis-dcdc_batt_comm individually.   
 
 ```bash
-$ git clone https://github.com/SonyCSL/apis-dcdc_batt_comm.git
+$ git clone https://github.com/hyphae/apis-dcdc_batt_comm.git
 $ cd apis-dcdc_batt_comm
 $ python3 -m venv venv
 $ . venv/bin/activate
@@ -23,7 +23,7 @@ $ deactivate
 Here is how to run apis-dcdc_batt_comm individually.  
 
 *By default, 2 USB-RS485 converters are required for /dev/ttyUSB0 and /dev/ttyUSB1.  
-See apis-dcdc_batt_comm's [Document](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/doc/jp/apis-dcdc_batt_comm_specification.md) for more information.
+See apis-dcdc_batt_comm's [Document](https://github.com/hyphae/apis-dcdc_batt_comm/blob/master/doc/jp/apis-dcdc_batt_comm_specification.md) for more information.
 
 ```bash
 $ cd apis-dcdc_batt_comm
@@ -43,13 +43,13 @@ $ deactivate
 
 
 ## Documentation
-&emsp;[apis-dcdc_batt_comm_specification(EN)](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/doc/en/apis-dcdc_batt_comm_specification_en.md)  
-&emsp;[apis-dcdc_batt_comm_specification(JP)](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/doc/jp/apis-dcdc_batt_comm_specification.md)
+&emsp;[apis-dcdc_batt_comm_specification(EN)](https://github.com/hypahe/apis-dcdc_batt_comm/blob/master/doc/en/apis-dcdc_batt_comm_specification_en.md)  
+&emsp;[apis-dcdc_batt_comm_specification(JP)](https://github.com/hyphae/apis-dcdc_batt_comm/blob/master/doc/jp/apis-dcdc_batt_comm_specification.md)
 
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/oes-github/apis-dcdc_batt_comm/blob/master/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-dcdc_batt_comm/blob/master/LICENSE)
 
 
 ## Notice
-&emsp;[Notice](https://github.com/oes-github/apis-dcdc_batt_comm/blob/master/NOTICE.md)
+&emsp;[Notice](https://github.com/hyphae/apis-dcdc_batt_comm/blob/master/NOTICE.md)
